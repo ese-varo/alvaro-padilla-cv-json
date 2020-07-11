@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Alvaro Padilla Mendoza",
+    "label": "Web developer",
+    "picture": "",
+    "email": "padillaalvaro.ap@gmail.com",
+    "phone": "(312) 317-7019",
+    "website": "https://ese-varo.github.io",
+    "summary": "Telematics Engineer, I'm 25 years old, self taught web developer, mainly interested on Open source web technologies. Always willing to learn new things, trying to write clean code and improving it while enjoying the continuous learning process. I really like sharing knowledge whenever possible, so that, I can help others.",
+    "location": {
+      "city": "Colima",
+      "countryCode": "MX",
+      "region": "Colima"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "alvaro-padilla-mendoza",
+        "url": "https://www.linkedin.com/in/alvaro-padilla-mendoza/"
+      },
+      {
+        "network": "github",
+        "username": "ese-varo",
+        "url": "https://github.com/ese-varo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bright Coders Academy/'Donadores Compulsivos' Project",
+      "position": "Apprentice",
+      "website": "https://www.brightcoders.com/",
+      "startDate": "2020-01-06",
+      "endDate": "2020-07-03",
+      "summary": "Participated in the BrightCoders Academy Program where we were trained on using Ruby and Ruby on Rails for building web sites through the implementation of best practices and standards in the field. We applied the acquired knowledge implementing new features, using mainly Ruby on Rails, to continue the development of the nonprofit 'Donadores compulsivos' association's web site.",
+      "highlights": [
+        "Modifying existent controllers and creating new ones when required.",
+        "Adding specific functionality through different gems.",
+        "Adding new views and modifying existing ones using: HTML, CSS, JavaScript, Jquery, Sass, BEM, etc.",
+        "Using github platform to integrate the software development process, through its tools: 'projects', 'issues', 'pull requests', 'milestones' and some others.",
+        "Implementation of software development agile methodologies."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "position": "Mainframe Developer",
+      "website": "https://www.tcs.com/",
+      "startDate": "2017-01-16",
+      "endDate": "2018-03-16",
+      "summary": "Development, testing, debugging, implementation and support for existing programs using COBOL, JCL and EasyTrieve with DB2 data bases.",
+      "highlights": [
+        "Adding new features to existing programs.",
+        "Supporting test environments on fixing any issue related with jobs from daily batches.",
+        "Improvement and software maintenance working in an agile environment."]
+    },
+    {
+      "company": "Siteldi Solutions",
+      "position": "Intern",
+      "website": "http://siteldisolutions.com/i-d/",
+      "startDate": "2016-08-15",
+      "endDate": "2016-12-23",
+      "summary": "Collaborated as a front-end web developer into the project 'Diseño e implementación de un sistema multimedia y de comunicación para vehículos conectados' (Mueves II), creating a website to show local weather data, air quality conditions, warnings, weather stations location and geolocalization of vehicles using company's own system.",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "JavaScript",
+        "Leaflet",
+        "Mapbox",
+        "Yahoo Weather API",
+        "twitter API",
+        "JSON", 
+        "JQUERY",
+        "AJAX",
+        "GIT"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Colima",
+      "area": "Telematics Engineering",
+      "studyType": "Engineer's degree",
+      "startDate": "2013-08-17",
+      "endDate": "2017-06-26",
+      "gpa": "9.12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front End",
+      "level": "Competent",
+      "keywords": [
+        "html",
+        "css",
+        "javascript",
+        "sass",
+        "reactjs",
+        "bem",
+        "bootstrap"
+      ]
+    },
+    {
+      "name": "Back End",
+      "level": "Competent",
+      "keywords": [
+        "mvc",
+        "ruby on rails",
+        "ruby",
+        "linux",
+        "regex"
+      ]
+    },
+    {
+      "name": "Ruby",
+      "level": "Competent",
+      "keywords": [
+        "ruby",
+        "ruby on rails",
+        "clean code"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Competent",
+      "keywords": [
+        "ruby",
+        "rspec",
+        "web development",
+        "css",
+        "html",
+        "erb",
+        "capybara"
+      ]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Advanced beginner",
+      "keywords": [
+        "web development",
+        "reactjs"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Competent",
+      "keywords": [
+        "linux",
+        "github",
+        "git"
+      ]
+    },
+    {
+      "name": "C",
+      "level": "Advanced beginner",
+      "keywords": [
+        "electronics",
+        "embedded systems",
+        "pic"
+      ]
+    },
+    {
+      "name": "COBOL",
+      "level": "Competent",
+      "keywords": [
+        "jcl",
+        "easy trieve",
+        "db2",
+        "mainframe"
+      ]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Proficient",
+      "keywords": [
+        "willingness helping others",
+        "empathy",
+        "listening"
+      ]
+    },
+    {
+      "name": "Willingness to learn",
+      "level": "Proficient",
+      "keywords": [
+        "perseverance",
+        "critical thinking",
+        "research",
+        "troubleshooting",
+        "self-taught"
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "level": "Proficient",
+      "keywords": [
+        "responsability",
+        "flexibility"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Competent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ]
+}
+
